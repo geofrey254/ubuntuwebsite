@@ -7,10 +7,10 @@ export default function Home() {
   return (
     <section className="min-h-screen ">
       <Hero />
-      {/* <Problem />
+      <Problem />
       <FeaturesGrid />
       <PricingSection />
-      <FinalCTABanner /> */}
+      <FinalCTABanner />
     </section>
   );
 }
